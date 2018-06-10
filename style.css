@@ -1,0 +1,90 @@
+/**
+ * Homework1 CSS File
+ **/
+
+* {
+  box-sizing: border-box;
+  text-align: center;
+}
+
+body {
+  margin: auto;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+  line-height: 32px;
+  color: #777;
+  background: #777;
+  width: 960px;
+}
+
+header {
+  padding: 20px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  background: #ebebeb;
+}
+
+nav {
+  padding: 20px;
+  margin-bottom: 20px;
+  background: #ebebeb;
+}
+
+#left-section {
+  float: left;
+  width: 495px;
+  height: 250px;
+  margin-bottom: 20px;
+  padding: 10px;
+  color: #777;
+  background: #ebebeb;
+}
+
+#full {
+  width: 100%;
+  overflow: auto;
+  clear: both;
+  background: #eee;
+}
+
+#division-article {
+  color: #ebebeb;
+  padding: 10px 20px 10px 20px;
+  margin-top: 10px;
+  background: #777;
+}
+
+#articleheader {
+  width: auto;
+  height: 50px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding: 10px;
+  color: #777;
+  background: #ebebeb;
+}
+
+#paragraph {
+  width: auto;
+  height: 50px;
+  margin-bottom: 0px;
+  padding: 10px;
+  color: #777;
+  background: #ebebeb;
+}
+
+aside {
+  float: right;
+  margin-bottom: 20px;
+  width: 445px;
+  height: 250px;
+  padding: 20px;
+  background: #ebebeb;
+}
+
+footer {
+  padding: 20px;
+  margin-top: 20px;
+  clear: both;
+  background: #ebebeb;
+}
